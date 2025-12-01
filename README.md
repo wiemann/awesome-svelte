@@ -25,6 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [YouTube Channels](#youtube-channels)
     - [Tutorials](#tutorials)
     - [Studies](#studies)
+    - [Ecosystem](#ecosystem)
   - [Integrations](#integrations)
     - [Preprocessing](#preprocessing)
     - [Mobile](#mobile)
@@ -107,6 +108,10 @@ _Studies and research on the Svelte framework._
 
 - [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? _(pre-v5)_
 - [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. _(pre-v5)_
+
+### Ecosystem
+
+- [https://www.stacktco.com/js/ecosystems/svelte] Svelte compatible npm packages directory on StackTCO
 
 ## Integrations
 
